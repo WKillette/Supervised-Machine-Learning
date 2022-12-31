@@ -39,7 +39,7 @@ Create a Logistic Regression model, fit it to the training data that you created
 
 Review the scores of each model. Which model performed better? How does that compare to your prediction? Write down your results and thoughts in the designated markdown cell.
 
-##Requirements
+## Requirements
 
 Retrieve the Data (5 points)
 To receive all points for this section, you must
@@ -47,18 +47,18 @@ Import the lending_data.csv file as a Pandas dataframe (3 points)
 Confirm that the import was successful by displaying the dataframe (2 points)
 Predict Model Performance (15 points)
 
-##To receive all points for this section, you must
+## To receive all points for this section, you must
 Make a prediction on which model will perform better on the data (5 points)
 Justify the prediction with information about the models (10 points)
 Split the Data into Training and Testing Sets (30 points)
 
-##To receive all points for this section, you must
+## To receive all points for this section, you must
 Create the features DataFrame, X, by removing the loan_status column (10 points)
 Create y, the labels set, by using the loan_status column (10 points)
 Split the data into training and testing datasets by using the train_test_split function (10 points)
 Create, Fit and Compare Models (50 points)
 
-##To receive all points for this section, you must
+## To receive all points for this section, you must
 Create and train a Logistic Regression model (10 points)
 Score the Logistic Regression model (10 points)
 Create and train a Random Forest Classifier model (10 points)
